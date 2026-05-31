@@ -54,7 +54,7 @@ chem-app/
 1. **Клонирование репозитория:**
 
 ```bash
-   git clone [https://github.com/arthaslav/chem-periodic-table.git](https://github.com/arthaslav/chem-periodic-table.git)
+   git clone https://github.com/arthaslav/chem-periodic-table.git
    cd chem-periodic-table
 
 ```
